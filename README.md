@@ -1,2 +1,0 @@
-# tinywebdb
-tinywebdb
